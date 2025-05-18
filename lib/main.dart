@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_car_installment_calculation/views/inupt_screen_ui.dart';
+import 'package:flutter_car_installment_calculation/views/result_screen_ui.dart';
 import 'package:flutter_car_installment_calculation/views/splash_screen_ui.dart';
 import 'package:google_fonts/google_fonts.dart';
 
